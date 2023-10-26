@@ -1,0 +1,27 @@
+body {
+	font-family: "Nunito", sans-serif;
+	font-family: "Nunito Sans", sans-serif;
+}
+
+.Navbar {
+	background-color: rgb(252, 228, 206);
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+
+.Nav-links li a {
+	color: #008080;
+	font-size: 17px;
+}
+
+
+
+.project-link{
+    color: black;
+}
+
+.underline-project{
+    background-color: #18bebe;
+    height: 9px;
+    border-radius: 10px;
+}
